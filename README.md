@@ -7,7 +7,7 @@
 - [x] Tidy up the build process
 - [x] Actually set up database (vercel postgres)
 - [x] Add authentication (clerk)
-- [ ] Add image upload
+- [x] Add image upload
 - [ ] "taint" (server only)
 - [ ] Use Next/Image component
 - [ ] Error management (sentry)
