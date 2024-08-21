@@ -9,6 +9,7 @@ import { extractRouterConfig } from "uploadthing/server";
 
 import { TopNav } from "~/app/_components/topnav";
 import { ourFileRouter } from "~/app/api/uploadthing/core";
+import { Toaster } from "~/components/ui/sonner";
 
 export const metadata: Metadata = {
   title: "T3 gallery",
@@ -41,6 +42,7 @@ export default function RootLayout({
          </div>
          {modal}
          <div id="modal-root" />
+         <Toaster />
         </body>
       </html>
     </ClerkProvider>
