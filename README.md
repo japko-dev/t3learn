@@ -14,5 +14,5 @@
 - [x] Routing/image page (parallel router)
 - [x] ShadUify (specifically toasts)
 - [x] Analytics (posthog)
-- [ ] Delete button (server actions)
-- [ ] Rate limiting (upstash) 
+- [x] Delete button (server actions)
+- [x] Rate limiting (upstash) 
