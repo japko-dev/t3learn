@@ -13,6 +13,6 @@
 - [x] Error management (sentry)
 - [x] Routing/image page (parallel router)
 - [x] ShadUify (specifically toasts)
-- [ ] Analytics (posthog)
+- [x] Analytics (posthog)
 - [ ] Delete button (server actions)
 - [ ] Rate limiting (upstash) 
